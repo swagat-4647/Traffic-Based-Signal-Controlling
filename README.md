@@ -15,6 +15,6 @@ Here is the Circuit Diagram of project.
 ![image](https://user-images.githubusercontent.com/81175552/167254318-2c0ec476-5478-43f1-939e-aa0c3669543f.png)
 - - - -
 Components Used:
-Markup: 1. Development Board - STM32 Nucleo F446RE (Any other development Board with sufficient Digital GPIO pins will work)
+1. Development Board - STM32 Nucleo F446RE (Any other development Board with sufficient Digital GPIO pins will work)
 2. Sensor - OEM IR sensor module
 3. Traffic Light - OEM 3 led module.
