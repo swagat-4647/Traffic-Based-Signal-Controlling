@@ -12,7 +12,7 @@ Below given image shows the flow of system.
 ![image](https://user-images.githubusercontent.com/81175552/167254011-c4058d38-508a-4bcf-9dd3-26b663c28e27.png)
 - - - -
 Here is the Circuit Diagram of project.
-![image](https://user-images.githubusercontent.com/81175552/167254057-87c90cda-78e9-47f0-b9c6-60556eedf69c.png)
+![image](https://user-images.githubusercontent.com/81175552/167254318-2c0ec476-5478-43f1-939e-aa0c3669543f.png)
 - - - -
 Components Used:
 Markup: 1. Development Board - STM32 Nucleo F446RE (Any other development Board with sufficient Digital GPIO pins will work)
